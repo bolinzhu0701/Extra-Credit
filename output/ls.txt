@@ -1,0 +1,17 @@
+copy.txt
+date.txt
+file.txt
+ls.txt
+mount.txt
+mount_head.txt
+netstat.txt
+netstat_head.txt
+output.txt
+permissions.txt
+process.txt
+process_head.txt
+pwd.txt
+read.txt
+regex.txt
+testenv.txt
+textcount.txt
